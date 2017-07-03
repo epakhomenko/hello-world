@@ -1,3 +1,7 @@
 # hello-world
-My first repository
+
+Hello deti!
+
+Eto proekt krovostok
+krovo rebyatki stok
 
