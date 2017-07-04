@@ -1,0 +1,14 @@
+char ch;
+  int count = 1;
+  char* name = "Njal";
+  struct complex { float re, im; };
+  complex cvar;
+  extern complex sqrt(complex);
+  extern int error_number;
+  typedef complex point;
+  float real(complex* p) { return p->re; };
+  const double pi = 3.1415926535897932385;
+  struct user;
+  template<class T> abs(T a) { return a<0 ? -a : a; }
+  enum beer { Carlsberg, Tuborg, Thor };
+  
